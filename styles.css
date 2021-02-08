@@ -1,6 +1,10 @@
 main{
     min-height: 100vh;
-    background: linear-gradient(to right top, #80bd9e, #89daf9);
+    background: linear-gradient(to right top, #65dfc9, #6cdbeb);
+    /* background: linear-gradient(to right top, #80bd9e, #89daf9); */ /* green -> blue */
+    /* background: linear-gradient(to right top, #85b8cb, #1d6a96); */ /*light blue -> light navy */
+    /* background: linear-gradient(to right top, #deb3cf, #b57fb3); */ /* pink -> purple */
+    /* background: linear-gradient(to right top, #d1ede1, #028c6a); */ /* pale green -> darker green */
     display: flex;
     align-items: center;
     justify-content: center;
