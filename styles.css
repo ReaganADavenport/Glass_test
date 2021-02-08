@@ -1,0 +1,10 @@
+main{
+    min-height: 100vh;
+    background: linear-gradient(to right top, #FAF0E4, #F6B99D)
+}
+
+.glass{
+    background: white;
+    min-height: 80vh;
+    width: 60%;
+}
