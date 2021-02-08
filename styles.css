@@ -1,10 +1,14 @@
 main{
     min-height: 100vh;
-    background: linear-gradient(to right top, #FAF0E4, #F6B99D)
+    background: linear-gradient(to right top, #80bd9e, #89daf9);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .glass{
     background: white;
     min-height: 80vh;
     width: 60%;
+    background: linear-gradient(to right bottom, rgba(255, 255, 255, 0.8), rgba(255, 255,255, 0.3))
 }
