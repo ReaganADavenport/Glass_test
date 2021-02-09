@@ -21,6 +21,7 @@ main{
     border-radius: 2rem;
     z-index: 3;
     -webkit-backdrop-filter: blur(2rem);
+    display: flex;
 }
 
 .circle1, .circle2{
