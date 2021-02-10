@@ -1,3 +1,11 @@
+h1{
+    color: #426696;
+    font-weight: 600;
+    font-size: 3rem;
+    opacity: 0.8;
+}
+
+
 main{
     min-height: 100vh;
     background: linear-gradient(to right top, #65dfc9, #6cdbeb);
@@ -58,7 +66,7 @@ main{
 .gif{
     background: linear-gradient(to right top, #65dfc9, #6cdbeb);
     border-radius: 2rem;
-    margin: 10px;
+    margin: 20px;
     padding: 5px;
 }
 
@@ -67,7 +75,9 @@ main{
 }
 
 .projects{
-    flex: 2;
+    flex: 3;
+    align-items: center;
+    justify-content: center;
 }
 
 .circle1, .circle2{
